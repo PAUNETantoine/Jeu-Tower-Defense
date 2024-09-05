@@ -1,0 +1,3 @@
+Implementation des éléments pour les morts des mobs + event boss   --->  FALSE
+BUG de placement des blocs de chemin (cf screen) ---> FALSE
+BUG Des projectiles qui partent pas assez haut ------> TRUE

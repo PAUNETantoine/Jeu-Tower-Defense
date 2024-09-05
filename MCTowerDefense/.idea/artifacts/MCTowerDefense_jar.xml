@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MCTowerDefense:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MCTowerDefense_jar</output-path>
+    <root id="archive" name="MCTowerDefense.jar">
+      <element id="module-output" name="MCTowerDefense" />
+      <element id="module-source" name="MCTowerDefense" />
+    </root>
+  </artifact>
+</component>
